@@ -1,2 +1,2 @@
 # Risk
-A game of Risk. Created using Android Studio
+A game of Risk. Created using Android Studio.
